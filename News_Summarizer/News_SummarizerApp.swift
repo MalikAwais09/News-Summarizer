@@ -11,7 +11,7 @@ import SwiftUI
 struct News_SummarizerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView()
         }
     }
 }
