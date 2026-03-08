@@ -4,6 +4,6 @@ import Foundation
 /// You can get an API key from Google AI Studio.
 /// Do NOT commit real keys to a public repo.
 enum GeminiAPIKey {
-    static let value = "AIzaSyDuryH7PWdmPARr1Hknmm42F_-evqmyYto" // <-- paste your key
+    static let value = "YOUR_GEMINI_API_KEY" // <-- paste your key
 }
 
