@@ -106,5 +106,5 @@ This project is open-source and available under the MIT License.
 ## 📱 App Screenshots
 
 <p align="center">
-  <img src="https://github.com/MalikAwais09/News-Summarizer/blob/main/Screen%20Shots/Screens.png" width="30%" />
+  <img src="https://github.com/MalikAwais09/News-Summarizer/blob/main/Screen%20Shots/Screens.png" />
 </p>
