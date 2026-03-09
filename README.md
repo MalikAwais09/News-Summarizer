@@ -1,4 +1,4 @@
-# News Summarizer 📰✨
+# News Summarizer
 
 A beautiful, native iOS application built with SwiftUI that aggregates the latest technology news and provides AI-powered, beginner-friendly article summaries using Google's Gemini SDK. 
 
@@ -6,17 +6,17 @@ Never get bogged down by long articles again! Read the essentials, save your fav
 
 ---
 
-## 🚀 Features
+## Features
 
-- **🌐 Live Tech News Feed:** Streams the latest global technology news directly from [NewsAPI](https://newsapi.org) using efficient caching and pagination parameters.
-- **✨ Magic Summarization:** Integrates with `gemini-2.5-flash` via the `GoogleGenerativeAI` SDK. Tapping "Magic Summarize" generates a strict, concise, 3-sentence beginner-friendly summary of any complex article instantly.
-- **💾 Offline Reading:** Downloads full article HTML content in the background, caching it securely in a local database for access anytime—even on airplane mode.
-- **🔖 Bookmarking System:** Save your favorite articles to a dedicated Bookmarks view for easy retrieval later.
-- **🎨 Modern Native UI:** Built beautifully with SwiftUI utilizing native `NavigationStack`, `List` styling, and system SF Symbols for a familiar Apple platform experience.
+- **Live Tech News Feed:** Streams the latest global technology news directly from [NewsAPI](https://newsapi.org) using efficient caching and pagination parameters.
+- **Magic Summarization:** Integrates with `gemini-2.5-flash` via the `GoogleGenerativeAI` SDK. Tapping "Magic Summarize" generates a strict, concise, 3-sentence beginner-friendly summary of any complex article instantly.
+- **Offline Reading:** Downloads full article HTML content in the background, caching it securely in a local database for access anytime—even on airplane mode.
+- **Bookmarking System:** Save your favorite articles to a dedicated Bookmarks view for easy retrieval later.
+- **Modern Native UI:** Built beautifully with SwiftUI utilizing native `NavigationStack`, `List` styling, and system SF Symbols for a familiar Apple platform experience.
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+## Tech Stack & Architecture
 
 This application is built using modern iOS development paradigms aiming for responsiveness and modularity.
 
@@ -31,7 +31,7 @@ This application is built using modern iOS development paradigms aiming for resp
 
 ---
 
-## 🔄 Complete Application Workflow
+## Complete Application Workflow
 
 Understanding how data traverses the application:
 
@@ -52,7 +52,7 @@ Understanding how data traverses the application:
 
 ---
 
-## ⚙️ Prerequisites
+## Prerequisites
 
 - **Deployment Target:** iOS 16.0+
 - **IDE:** Xcode 15.0+
@@ -61,7 +61,7 @@ Understanding how data traverses the application:
 
 ---
 
-## 🏎️ Getting Started
+## Getting Started
 
 Follow these steps to run the application locally:
 
@@ -99,11 +99,11 @@ Follow these steps to run the application locally:
 
 ---
 
-## 📜 License
+## License
 
 This project is open-source and available under the MIT License.
 
-## 📱 App Screenshots
+## App Screenshots
 
 <p align="center">
   <img src="https://github.com/MalikAwais09/News-Summarizer/blob/main/Screen%20Shots/Screens%20Image.png" />
